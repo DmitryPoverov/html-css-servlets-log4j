@@ -1,0 +1,297 @@
+h1{
+    width: 300px;
+    height: 50px;
+    border: 2px solid black;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 50px;
+    font-family: "Segoe UI", sans-serif;
+    line-height: 50px;
+    /*font: italic 25pt "Segoe UI";*/
+    tab-index: 50px;
+}
+
+.a {
+    border: 5px darkred;
+    font-size: 30px;
+    width: 300px;
+    height: 150px;
+    text-align: left;
+    padding-left: 25px;
+    vertical-align: center;
+    background: url("/res/images/1.jpg") no-repeat;
+    margin: 0 5px 0 5px;
+}
+
+.a:hover {
+    cursor: pointer;
+    background: url("/res/images/2.jpg") no-repeat;
+    color: white;
+    font-weight: bolder;
+}
+
+
+
+.a2 {
+    margin: 3px;
+    border: 1px double royalblue;
+    border-radius: 5px;
+    color: white;
+    line-height: 35px;
+    padding: 0 0 0 5px;
+    font-size: 20px;
+    font-family: "Segoe UI", sans-serif;
+    background-color: royalblue;
+    background-position-x: 90%;
+    background-position-y: center;
+    width: 300px;
+    height: 40px;
+}
+
+.a2:hover {
+    background: white url("/res/images/blue.png") no-repeat 90% center;
+    padding: 0 0 0 5px;
+    color: royalblue;
+}
+
+.a3 {
+    margin: 3px;
+    border: 1px double royalblue;
+    border-radius: 4px;
+    color: white;
+    line-height: 35px;
+    padding: 0 0 0 5px;
+    font-size: 25px;
+    font-family: "Segoe UI", sans-serif;
+    background-color: royalblue;
+    background-position-x: 90%;
+    background-position-y: center;
+    width: 300px;
+    height: 40px;
+}
+
+.a3:hover {
+    background: #6bdcff url("/res/images/airplain_blue_50_50.jpg") no-repeat 95% center;
+    color: #002674;
+}
+
+#my_frame1_red_dotted {
+    min-width: 600px;
+    padding: 10px 0 0 10px;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: orangered;
+    width: fit-content;
+    height: available;
+}
+
+.my_a_menu ul {
+    margin: 0 0 0 0;
+    height: 50px;
+    padding: 0 20px 0 0;
+    list-style-type: none;
+    display: inline;
+}
+
+.my_a_menu li {
+    /*float: left;*/
+    display: inline;
+}
+
+.my_a_menu a:link{
+    text-decoration: none;
+    color: blue;
+    font: 30px Roboto;
+    font-weight: bolder;
+    border: 1px solid darkblue;
+    margin: 0 5px 10px 0;
+    padding: 10px 30px 10px 30px;
+    line-height: 60px;
+}
+
+.my_a_menu a:hover {
+    color: green;
+}
+
+#my_menu2 ul {
+    height: 50px;
+    padding: 0 20px 0 0;
+    margin: 0 0 0 0;
+    list-style-type: none;
+    display: inline;
+}
+
+#my_menu2 li {
+    /*float: left;*/
+    display: inline;
+}
+
+#my_menu2 a:link{
+    text-decoration: none;
+    color: blue;
+    font: 30px Roboto;
+    font-weight: bolder;
+    border: 5px double darkblue;
+    margin: 0 20px 0 0;
+    padding: 5px 20px 5px 20px;
+    line-height: 60px;
+}
+
+#my_menu2 a:hover{
+    color: white;
+    background: #00384c;
+}
+
+#mark1 {
+    width: 250px;
+    height: 110px;
+    line-height: 50px;
+    color: darkgreen;
+}
+
+.my_h1_1{
+    color: darkgreen;
+    background-color: chartreuse;
+    font-style: normal;
+}
+
+.my_class1{
+    width: 700px;
+    color: aliceblue;
+    background-color: #00384c;
+    font: 10px "Roboto";
+}
+
+td {
+    vertical-align: bottom;
+    horiz-align: right;
+}
+
+.my_a:link {
+    color: #00384c;
+}
+
+.my_a:visited {
+    color: green;
+}
+
+.my_a:hover {
+    text-decoration: none;
+    background-color: coral;
+    font-size: 120%;
+    font-style: italic;
+}
+
+.my_a1:active {
+    color: aqua;
+}
+
+.my_a1 {
+    color: darkred;
+}
+
+.my_a1:hover {
+    text-decoration: none;
+    background-color: lightskyblue;
+    font-style: italic;
+}
+
+.my_a1:active {
+    color: aqua;
+}
+
+#background600 {
+    background-image: url("/res/images/2.jpg");
+    border-width: 3px;
+    border-color: darkmagenta;
+    border-style: dashed;
+    width: 450px;
+    height: 300px;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    margin: 50px 0 50px 0;
+}
+
+#background_1_image {
+    background-image: url("/res/images/airplain_blue_50_50.jpg");
+    background-repeat: no-repeat;
+    width: 270px;
+    height: 170px;
+    padding: 30px 0 0 30px;
+    border: 3px inset dodgerblue;
+    /*background-position: right bottom;*/
+    /*background-position: 240px 140px;*/
+    background-position: 95% 92%;
+}
+
+#menu_orange {
+    background-color: #FC9D00;
+    font-family: Roboto sans-serif;
+}
+
+#menu_orange ul {
+    height: auto;
+    list-style-type: none;
+    display: inline-block;
+}
+
+#menu_orange li {
+    display: inline-block;
+    padding-right: 20px;
+    margin: 0;
+}
+
+#menu_orange a:link {
+    text-decoration: none;
+    color: white;
+    font: 30px Roboto;
+    padding: 0 10px 0 10px;
+    font-weight: bolder;
+    line-height: 60px;
+}
+
+#menu_orange a:hover {
+    color: white;
+    height: 75px;
+    background: chocolate;
+    padding: 27px 10px 27px 10px;
+    font: 30px Roboto;
+    font-weight: bolder;
+    line-height: 60px;
+}
+
+#frame2_Solid_Black {
+    padding: 20px 20px 20px 20px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+#reference_blue_30 a:link {
+    text-decoration: none;
+    color: darkblue;
+    font: 30px Roboto;
+    font-weight: bolder;
+}
+
+#reference_blue_30 a:hover {
+    text-decoration: underline;
+    font: 30px Roboto;
+    font-weight: bolder;
+}
+
+#reference_blue_30 p {
+    text-align: justify;
+    text-indent: 50px;
+    font: 17px Roboto;
+    font-weight: bold;
+}
+
+#reference_blue_15 p {
+    text-align: right;
+    font: 15px Roboto;
+    font-weight: bold;
+}

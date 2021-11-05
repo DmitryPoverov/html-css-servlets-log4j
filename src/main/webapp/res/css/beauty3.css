@@ -1,0 +1,21 @@
+input::placeholder {
+    color: green;
+    font-size: 10px;
+}
+
+.color_placeholder {
+    border: 0;
+    border-bottom: 1px blue solid;
+    color: blueviolet;
+    text-decoration: underline orangered;
+}
+
+.color_placeholder::placeholder {
+    color: blueviolet;
+    text-decoration: underline orangered;
+    font-size: 10px;
+}
+
+input.color_placeholder:focus {
+    border: 0 solid red;
+}

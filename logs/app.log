@@ -1,0 +1,105 @@
+[INFO ] 2021-09-02 21:45:24.671 [http-nio-8081-exec-4] FirstServlet - * Enter the method
+[INFO ] 2021-09-02 21:45:24.687 [http-nio-8081-exec-4] FirstServlet - * ROOT * Enter the method
+[ERROR] 2021-09-02 21:45:24.687 [http-nio-8081-exec-4] FirstServlet - Try/Catch :null
+[ERROR] 2021-09-02 21:45:24.687 [http-nio-8081-exec-4] FirstServlet - Try/Catch *ROOT* :null
+************************************************
+[INFO ] 2021-09-03 13:06:39.123 [http-nio-8081-exec-13] FirstServlet - * In a method
+[INFO ] 2021-09-03 13:06:39.132 [http-nio-8081-exec-13] FirstServlet - In a method *ROOT* 
+[ERROR] 2021-09-03 13:06:39.132 [http-nio-8081-exec-13] FirstServlet - In a Try/Catch block:null
+[ERROR] 2021-09-03 13:06:39.133 [http-nio-8081-exec-13] FirstServlet - In a Try/Catch block *ROOT* :null
+[INFO ] 2021-09-03 13:06:54.439 [http-nio-8081-exec-14] FirstServlet - * In a method
+[INFO ] 2021-09-03 13:06:54.439 [http-nio-8081-exec-14] FirstServlet - In a method *ROOT* 
+[ERROR] 2021-09-03 13:06:54.439 [http-nio-8081-exec-14] FirstServlet - In a Try/Catch block:null
+[ERROR] 2021-09-03 13:06:54.439 [http-nio-8081-exec-14] FirstServlet - In a Try/Catch block *ROOT* :null
+[INFO ] 2021-09-03 14:43:15.785 [http-nio-8081-exec-12] FirstServlet - * In a method
+[INFO ] 2021-09-03 14:43:15.785 [http-nio-8081-exec-12] FirstServlet - In a method *ROOT* 
+[ERROR] 2021-09-03 14:43:15.785 [http-nio-8081-exec-12] FirstServlet - In a Try/Catch block:null
+[ERROR] 2021-09-03 14:43:15.785 [http-nio-8081-exec-12] FirstServlet - In a Try/Catch block *ROOT* :null
+------------------------------------------------------------
+[INFO ] 2021-09-03 14:44:01.502 [http-nio-8081-exec-12] FirstServlet - * In a method
+[INFO ] 2021-09-03 14:44:01.503 [http-nio-8081-exec-12] FirstServlet - In a method *ROOT* 
+[ERROR] 2021-09-03 14:44:01.503 [http-nio-8081-exec-12] FirstServlet - In a Try/Catch block:null
+[ERROR] 2021-09-03 14:44:01.503 [http-nio-8081-exec-12] FirstServlet - In a Try/Catch block *ROOT* :null
+------------------------------------------------------------
+[INFO ] 2021-09-03 14:45:06.344 [http-nio-8081-exec-18] FirstServlet - * In a method
+[INFO ] 2021-09-03 14:45:06.345 [http-nio-8081-exec-18] FirstServlet - In a method *ROOT* 
+[ERROR] 2021-09-03 14:45:06.345 [http-nio-8081-exec-18] FirstServlet - In a Try/Catch block:null
+[ERROR] 2021-09-03 14:45:06.345 [http-nio-8081-exec-18] FirstServlet - In a Try/Catch block *ROOT* :null
+[INFO ] 2021-09-03 14:49:56.430 [http-nio-8081-exec-17] CommaSplitter - In the enter: StringBuilder = {"Cur_ID":431,"Date":"2021-09-03T00:00:00","Cur_Abbreviation":"USD","Cur_Scale":1,"Cur_Name":"Доллар США","Cur_OfficialRate":2.5148}
+[INFO ] 2021-09-03 14:49:56.440 [http-nio-8081-exec-17] CommaSplitter - In the exit: String 0 = USD
+[INFO ] 2021-09-03 14:49:56.440 [http-nio-8081-exec-17] CommaSplitter - In the exit: String 1 = 1
+[INFO ] 2021-09-03 14:49:56.440 [http-nio-8081-exec-17] CommaSplitter - In the exit: String 2 = 2.5148
+[INFO ] 2021-09-03 14:50:57.092 [http-nio-8081-exec-11] CommaSplitter - In the enter: StringBuilder = 
+{"Cur_ID":429,"Date":"2021-09-03T00:00:00","Cur_Abbreviation":"GBP","Cur_Scale":1,"Cur_Name":"Фунт стерлингов","Cur_OfficialRate":3.4689}
+[INFO ] 2021-09-03 14:50:57.098 [http-nio-8081-exec-11] CommaSplitter - In the exit: String 0 = GBP
+[INFO ] 2021-09-03 14:50:57.099 [http-nio-8081-exec-11] CommaSplitter - In the exit: String 1 = 1
+[INFO ] 2021-09-03 14:50:57.099 [http-nio-8081-exec-11] CommaSplitter - In the exit: String 2 = 3.4689
+[INFO ] 2021-09-03 14:52:08.693 [http-nio-8081-exec-26] CommaSplitter - In the enter: StringBuilder = 
+{"Cur_ID":456,"Date":"2021-09-03T00:00:00","Cur_Abbreviation":"RUB","Cur_Scale":100,"Cur_Name":"Российских рублей","Cur_OfficialRate":3.4531}
+[INFO ] 2021-09-03 14:52:08.693 [http-nio-8081-exec-26] CommaSplitter - In the exit: String 0 = RUB
+[INFO ] 2021-09-03 14:52:08.694 [http-nio-8081-exec-26] CommaSplitter - In the exit: String 1 = 100
+[INFO ] 2021-09-03 14:52:08.694 [http-nio-8081-exec-26] CommaSplitter - In the exit: String 2 = 3.4531
+[INFO ] 2021-09-03 14:52:14.444 [http-nio-8081-exec-15] FirstServlet - In a method
+[INFO ] 2021-09-03 14:52:14.444 [http-nio-8081-exec-15] FirstServlet - In a method *ROOT* 
+[ERROR] 2021-09-03 14:52:14.445 [http-nio-8081-exec-15] FirstServlet - In a Try/Catch block:null
+[ERROR] 2021-09-03 14:52:14.445 [http-nio-8081-exec-15] FirstServlet - In a Try/Catch block *ROOT* :null
+[INFO ] 2021-09-07 11:27:18.252 [http-nio-8080-exec-5] CommaSplitter - In the enter: StringBuilder = 
+{"Cur_ID":431,"Date":"2021-09-07T00:00:00","Cur_Abbreviation":"USD","Cur_Scale":1,"Cur_Name":"Доллар США","Cur_OfficialRate":2.5156}
+[INFO ] 2021-09-07 11:27:18.274 [http-nio-8080-exec-5] CommaSplitter - In the exit: String 0 = USD
+[INFO ] 2021-09-07 11:27:18.274 [http-nio-8080-exec-5] CommaSplitter - In the exit: String 1 = 1
+[INFO ] 2021-09-07 11:27:18.275 [http-nio-8080-exec-5] CommaSplitter - In the exit: String 2 = 2.5156
+[INFO ] 2021-09-07 11:27:34.234 [http-nio-8080-exec-7] FirstServlet - In a method
+[INFO ] 2021-09-07 11:27:34.234 [http-nio-8080-exec-7] FirstServlet - In a method *ROOT* 
+[ERROR] 2021-09-07 11:27:34.235 [http-nio-8080-exec-7] FirstServlet - In a Try/Catch block:null
+[ERROR] 2021-09-07 11:27:34.235 [http-nio-8080-exec-7] FirstServlet - In a Try/Catch block *ROOT* :null
+[INFO ] 2021-09-07 11:27:38.534 [http-nio-8080-exec-10] FirstServlet - * Enter the method
+[ERROR] 2021-09-07 11:27:38.535 [http-nio-8080-exec-10] FirstServlet - Try/Catchnull
+[INFO ] 2021-09-07 11:30:40.182 [http-nio-8080-exec-4] CommaSplitter - In the enter: StringBuilder = 
+{"Cur_ID":456,"Date":"2021-09-07T00:00:00","Cur_Abbreviation":"RUB","Cur_Scale":100,"Cur_Name":"Российских рублей","Cur_OfficialRate":3.4479}
+[INFO ] 2021-09-07 11:30:40.183 [http-nio-8080-exec-4] CommaSplitter - In the exit: String 0 = RUB
+[INFO ] 2021-09-07 11:30:40.183 [http-nio-8080-exec-4] CommaSplitter - In the exit: String 1 = 100
+[INFO ] 2021-09-07 11:30:40.183 [http-nio-8080-exec-4] CommaSplitter - In the exit: String 2 = 3.4479
+[INFO ] 2021-09-07 18:29:54.890 [http-nio-8080-exec-8] FirstServlet - In a method
+[INFO ] 2021-09-07 18:29:54.894 [http-nio-8080-exec-8] FirstServlet - In a method *ROOT* 
+[ERROR] 2021-09-07 18:29:54.895 [http-nio-8080-exec-8] FirstServlet - In a Try/Catch block:null
+[ERROR] 2021-09-07 18:29:54.895 [http-nio-8080-exec-8] FirstServlet - In a Try/Catch block *ROOT* :null
+[INFO ] 2021-09-07 18:30:05.961 [http-nio-8080-exec-2] FirstServlet - * Enter the method
+[ERROR] 2021-09-07 18:30:05.963 [http-nio-8080-exec-2] FirstServlet - Try/Catchnull
+[INFO ] 2021-09-07 18:30:16.803 [http-nio-8080-exec-4] FirstServlet - * Enter the method
+[ERROR] 2021-09-07 18:30:16.803 [http-nio-8080-exec-4] FirstServlet - Try/Catchnull
+[INFO ] 2021-09-07 18:30:23.787 [http-nio-8080-exec-7] CommaSplitter - In the enter: StringBuilder = 
+{"Cur_ID":451,"Date":"2021-09-07T00:00:00","Cur_Abbreviation":"EUR","Cur_Scale":1,"Cur_Name":"Евро","Cur_OfficialRate":2.9827}
+[INFO ] 2021-09-07 18:30:23.788 [http-nio-8080-exec-7] CommaSplitter - In the exit: String 0 = EUR
+[INFO ] 2021-09-07 18:30:23.788 [http-nio-8080-exec-7] CommaSplitter - In the exit: String 1 = 1
+[INFO ] 2021-09-07 18:30:23.788 [http-nio-8080-exec-7] CommaSplitter - In the exit: String 2 = 2.9827
+[INFO ] 2021-09-09 21:55:12.208 [http-nio-8081-exec-6] CommaSplitter - In the enter: StringBuilder = 
+{"Cur_ID":431,"Date":"2021-09-09T00:00:00","Cur_Abbreviation":"USD","Cur_Scale":1,"Cur_Name":"Доллар США","Cur_OfficialRate":2.5194}
+[INFO ] 2021-09-09 21:55:12.232 [http-nio-8081-exec-6] CommaSplitter - In the exit: String 0 = USD
+[INFO ] 2021-09-09 21:55:12.233 [http-nio-8081-exec-6] CommaSplitter - In the exit: String 1 = 1
+[INFO ] 2021-09-09 21:55:12.233 [http-nio-8081-exec-6] CommaSplitter - In the exit: String 2 = 2.5194
+[INFO ] 2021-09-09 21:55:17.836 [http-nio-8081-exec-8] CommaSplitter - In the enter: StringBuilder = 
+{"Cur_ID":456,"Date":"2021-09-09T00:00:00","Cur_Abbreviation":"RUB","Cur_Scale":100,"Cur_Name":"Российских рублей","Cur_OfficialRate":3.4304}
+[INFO ] 2021-09-09 21:55:17.836 [http-nio-8081-exec-8] CommaSplitter - In the exit: String 0 = RUB
+[INFO ] 2021-09-09 21:55:17.836 [http-nio-8081-exec-8] CommaSplitter - In the exit: String 1 = 100
+[INFO ] 2021-09-09 21:55:17.836 [http-nio-8081-exec-8] CommaSplitter - In the exit: String 2 = 3.4304
+[INFO ] 2021-10-11 12:15:18.251 [http-nio-8081-exec-10] CommaSplitter - In the enter: StringBuilder = 
+{"Cur_ID":431,"Date":"2021-10-11T00:00:00","Cur_Abbreviation":"USD","Cur_Scale":1,"Cur_Name":"Доллар США","Cur_OfficialRate":2.4775}
+[INFO ] 2021-10-11 12:15:18.261 [http-nio-8081-exec-10] CommaSplitter - In the exit: String 0 = USD
+[INFO ] 2021-10-11 12:15:18.262 [http-nio-8081-exec-10] CommaSplitter - In the exit: String 1 = 1
+[INFO ] 2021-10-11 12:15:18.262 [http-nio-8081-exec-10] CommaSplitter - In the exit: String 2 = 2.4775
+[INFO ] 2021-10-11 12:16:54.440 [http-nio-8081-exec-7] CommaSplitter - In the enter: StringBuilder = 
+{"Cur_ID":429,"Date":"2021-10-11T00:00:00","Cur_Abbreviation":"GBP","Cur_Scale":1,"Cur_Name":"Фунт стерлингов","Cur_OfficialRate":3.3753}
+[INFO ] 2021-10-11 12:16:54.448 [http-nio-8081-exec-7] CommaSplitter - In the exit: String 0 = GBP
+[INFO ] 2021-10-11 12:16:54.448 [http-nio-8081-exec-7] CommaSplitter - In the exit: String 1 = 1
+[INFO ] 2021-10-11 12:16:54.448 [http-nio-8081-exec-7] CommaSplitter - In the exit: String 2 = 3.3753
+[INFO ] 2021-10-11 12:17:05.873 [http-nio-8081-exec-10] FirstServlet - In a method
+[INFO ] 2021-10-11 12:17:05.873 [http-nio-8081-exec-10] FirstServlet - In a method *ROOT* 
+[ERROR] 2021-10-11 12:17:05.874 [http-nio-8081-exec-10] FirstServlet - In a Try/Catch block:null
+[ERROR] 2021-10-11 12:17:05.874 [http-nio-8081-exec-10] FirstServlet - In a Try/Catch block *ROOT* :null
+[INFO ] 2021-10-11 12:17:12.148 [http-nio-8081-exec-3] FirstServlet - * Enter the method
+[ERROR] 2021-10-11 12:17:12.149 [http-nio-8081-exec-3] FirstServlet - Try/Catchnull
+[INFO ] 2021-11-04 12:56:37.299 [http-nio-8080-exec-9] CommaSplitter - In the enter: StringBuilder = 
+{"Cur_ID":431,"Date":"2021-11-04T00:00:00","Cur_Abbreviation":"USD","Cur_Scale":1,"Cur_Name":"Доллар США","Cur_OfficialRate":2.4618}
+[INFO ] 2021-11-04 12:56:37.321 [http-nio-8080-exec-9] CommaSplitter - In the exit: String 0 = USD
+[INFO ] 2021-11-04 12:56:37.322 [http-nio-8080-exec-9] CommaSplitter - In the exit: String 1 = 1
+[INFO ] 2021-11-04 12:56:37.322 [http-nio-8080-exec-9] CommaSplitter - In the exit: String 2 = 2.4618
